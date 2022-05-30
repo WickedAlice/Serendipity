@@ -19,3 +19,7 @@ If layout is not provided default "vertical" option will apply.
 
 If language is not provided user browser settings will apply.
 
+<img src="./example_1.png" style="width:500px;"/>
+
+<img src="./example_2.png" style="width:300px;"/>
+
